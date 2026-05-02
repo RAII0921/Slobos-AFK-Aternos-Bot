@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "3ss3nzz",
+    "username": "essnc3z",
     "password": "craftmine21",
     "type": "online"
   },
   "server": {
     "ip": "BlueNeonLights.aternos.me",
     "port": 31070,
-    "version": "",
+    "version": "1.26.14.1",
     "try-creative": false
   },
   "position": {
